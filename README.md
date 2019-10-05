@@ -1,3 +1,5 @@
 # notes-cli
-a simple cli note app
-use npm install to set it up.
+
+a simple cli based note app
+
+write "npm install" to set it up.
